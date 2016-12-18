@@ -1,2 +1,2 @@
-# personal_site
+# lalomergo
 This is my personal blog

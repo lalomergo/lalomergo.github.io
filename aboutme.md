@@ -1,16 +1,24 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Acerca de mí
+subtitle: Soy un geek intentando escapar del godinato.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Soy Lalo Mercado. Geek, Linux fanboy, MBA, Emprendedor en ciernes.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### #EscapandoDelGodinato
 
-What else do you need?
+Soy Ingeniero en Sistemas de corazón buscando escribir mi propio camino.
 
-### my history
+Dicen por ahí que los fracasos cuentan tanto como los logros.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+## Mis proyectos fallidos:
+- Sabor a Mexico. Servicio mensual de envío de cajas a domicilio con selección de productos gourmet, artesanales y orgánicos.
+- JeltySnacks. Venta de botantas saludables en línea.
+- Mallcajete. Buscaba ser un sitio para buscar comida cercana con envío a domicilio, según el antojo que tuvieras.
+
+Y como no solo se vive de fracasos, aquí están mis actuales proyectos:
+
+## Mis actuales proyectos:
+- [Homepay](https://homepay.com.mx)
+- [Eyda MKT](http://eyda.mx)

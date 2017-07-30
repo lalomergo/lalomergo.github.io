@@ -24,10 +24,6 @@ guid: http://lalomercado.com/?page_id=108
   </div>
   
   <div class="listing-item">
-    <a class="image" href="http://lalomercado.com/2015/06/03/15-apps-gratis-para-que-ahorres/"></a> <a class="title" href="http://lalomercado.com/2015/06/03/15-apps-gratis-para-que-ahorres/">15 apps gratis para que ahorres dinero.</a> <span class="date">(6/3/2015)</span>
-  </div>
-  
-  <div class="listing-item">
     <a class="image" href="http://lalomercado.com/2015/06/02/emprender-es-como-componer/"></a> <a class="title" href="http://lalomercado.com/2015/06/02/emprender-es-como-componer/">¿Emprender es como componer música?</a> <span class="date">(6/2/2015)</span>
   </div>
   

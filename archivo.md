@@ -35,7 +35,4 @@ guid: http://lalomercado.com/?page_id=108
     <a class="title" href="http://lalomercado.com/2015/06/01/8-tips-para-el-exito-segun-tina-roth-eisenberg/">8 tips para conseguir el éxito según Tina Roth Eisenberg</a> <span class="date">(6/1/2015)</span>
   </div>
   
-  <div class="listing-item">
-    <a class="image" href="http://lalomercado.com/2015/05/31/2-apps-para-organizar-tu-startup/"></a> <a class="title" href="http://lalomercado.com/2015/05/31/2-apps-para-organizar-tu-startup/">2 apps gratis para organizar tu Startup</a> <span class="date">(5/31/2015)</span>
-  </div>
 </div>

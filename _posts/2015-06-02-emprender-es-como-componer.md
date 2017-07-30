@@ -10,9 +10,9 @@ categories:
   - Blog
   - Emprende
 tags:
-  - emprende
+  - Emprende
   - Motivación
-  - startup
+  - Startup
 ---
 <p style="text-align: justify;">
   ¿No eres músico y lo que buscas son consejos para emprender? ¿No sabes nada de música? No te has equivocado de nota: El emprender es igual que componer música. Te estarás preguntando por qué. Pues bien, por varias razones. Permíteme explicarte.

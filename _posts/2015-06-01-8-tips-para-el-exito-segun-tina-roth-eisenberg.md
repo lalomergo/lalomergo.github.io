@@ -11,9 +11,9 @@ categories:
   - Emprende
   - Motivación
 tags:
-  - emprende
+  - Emprende
   - Motivación
-  - tips
+  - Tips
 ---
 <p style="text-align: justify;">
    <img class="aligncenter" src="http://www.swiss-miss.com/wp-content/uploads/2009/02/tina-roth-eisenberg1.jpg" alt="8 tips para el éxito según Tina Roth Eisenberg" width="593" height="292" />

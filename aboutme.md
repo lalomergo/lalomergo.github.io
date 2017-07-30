@@ -1,24 +1,19 @@
 ---
 layout: page
 title: Acerca de mí
-subtitle: Soy un geek intentando escapar del godinato.
+subtitle: _#EscapandoDelGodinato
 ---
 
-Soy Lalo Mercado. Geek, Linux fanboy, MBA, Emprendedor en ciernes.
 
-### #EscapandoDelGodinato
+Mi nombre es Lalo Mercado. Me describo como un Linux fanboy, amante de la lectura y emprendedor en ciernes. Un geek escapando del godinato.
 
-Soy Ingeniero en Sistemas de corazón buscando escribir mi propio camino.
+Soy Ingeniero en Sistemas de corazón buscando escribir mi propio camino. Y como dicen por ahí que los fracasos cuentan tanto como los logros.
 
-Dicen por ahí que los fracasos cuentan tanto como los logros.
+### Mis proyectos fallidos:
+ - Sabor a Mexico. Servicio mensual de envío de cajas a domicilio con selección de productos gourmet, artesanales y orgánicos.
+ - JeltySnacks. Venta de botantas saludables en línea.
+ - Mallcajete. Buscaba ser un sitio para buscar comida cercana con envío a domicilio, según el antojo que tuvieras.
 
-## Mis proyectos fallidos:
-- Sabor a Mexico. Servicio mensual de envío de cajas a domicilio con selección de productos gourmet, artesanales y orgánicos.
-- JeltySnacks. Venta de botantas saludables en línea.
-- Mallcajete. Buscaba ser un sitio para buscar comida cercana con envío a domicilio, según el antojo que tuvieras.
-
-Y como no solo se vive de fracasos, aquí están mis actuales proyectos:
-
-## Mis actuales proyectos:
-- [Homepay](https://homepay.com.mx)
-- [Eyda MKT](http://eyda.mx)
+### Mis actuales proyectos:
+ - [Homepay](https://www.homepay.com.mx){:target="_blank"}
+ - [Eyda MKT](http://eyda.mx){:target="_blank"}

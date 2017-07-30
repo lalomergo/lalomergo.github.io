@@ -10,8 +10,8 @@ categories:
   - Blog
   - Emprende
 tags:
-  - emprende
-  - startup
+  - Emprende
+  - Startup
 ---
 <p style="text-align: justify;">
   Los que alguna vez hemos querido emprender algo y no lo hemos hecho ha sido porque nos hemos topado con alguna situación (física o imaginaria) que nos ha impedido conseguir ese éxito.

@@ -12,7 +12,7 @@ categories:
 tags:
   - cerebro
   - Motivación
-  - tips
+  - Tips
 ---
 <p style="text-align: justify;">
   Todos tenemos proyectos, planes y objetivos. Estoy seguro que tú también quieres hacer muchas cosas. Y eso está genial. Sin embargo, tenemos que cuidar de uno de nuestros principales recursos: Nuestro cerebro.

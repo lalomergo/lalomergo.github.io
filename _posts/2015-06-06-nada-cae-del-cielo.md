@@ -12,8 +12,8 @@ categories:
 tags:
   - Haz
   - Motivación
-  - trabajo
-  - universidad
+  - Trabajo
+  - Universidad
 ---
 <p style="text-align: justify;">
   Voy a platicarte una historia muy personal. Hace algunos años, terminando la carrera universitaria, decidí que la mejor opción para mí era estudiar una maestría. Mi razonamiento iba en el sentido de que, con una maestría, podría obtener un mejor puesto y por consecuencia, un mejor sueldo. Así que decidí poner todos mis recursos en poder estudiar una maestría. Ese era el objetivo entonces: Entrar a trabajar a una universidad, ya que me regalarían la maestría que yo tanto buscaba. Y puse todos mis recursos mentales en alcanzar ese objetivo. Tramité todo los papeles que había que tramitar. En fin, hice lo posible y  logré mi objetivo. Un año después, estaba estudiando un MBA en una universidad reconocida a nivel nacional. ¡Genial! ¿Cierto?

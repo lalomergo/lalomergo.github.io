@@ -11,9 +11,9 @@ categories:
   - Emprende
   - Motivación
 tags:
-  - emprende
+  - Emprende
   - Motivación
-  - tips
+  - Tips
 ---
 <p style="text-align: justify;">
   ¿Piensas que necesitas talento para ser bueno en algo o crees que de plano no tienes talento? Hablemos de Mozart. ¿Qué opiniones hay de él? Era magnífico, especial, fuera de serie, irrepetible, con gran talento, brillante, espléndido, formidable, etc. Seguramente estos y algunos otros son los adjetivos en los que pensamos al mencionar a Mozart, ese grande de la música clásica.

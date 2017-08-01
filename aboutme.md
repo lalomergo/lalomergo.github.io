@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Acerca de mí - Blog de Lalo Mercado
+title: Acerca de mí
 subtitle: _#EscapandoDelGodinato
 ---
 

@@ -12,7 +12,7 @@ He trabajado por más de 10 años tanto en el sector privado como en el sector p
 
 Desde hace tiempo, he sido un asiduo lector de blogs en internet y este blog es respuesta a mi necesidad de encontrar blogs en español que de ciertos temas, como _tips para la vida_, _cómo ser autocrítico_, _humildad_, _filosofía_, _lectura_, _aprendizaje_, _creación de negocios_, _tecnología_, _dejar el godinato_, _startups_ y varios otros temas más.
 
-Hace unos años comencé escribiendo para [Todo Startups](http://www.todostartups.com/){:target="_blank"} y mi propio blog siempre fue el paso esperado.
+Hace unos años escribí algunas cosas para [Todo Startups](http://www.todostartups.com/){:target="_blank"} y mi propio blog siempre fue el paso esperado.
 
 He dado algunas pláticas y conferencias de _negocios_, _motivación_ y _emprendimiento_ para instituciones como el CLEU escuela de negocios en Puebla o el Centro Universitario de Tehuacán.
 
@@ -30,6 +30,6 @@ Actualmente me encuentro trabajando en un par de proyectos en los que he estado 
  - [Homepay](https://www.homepay.com.mx){:target="_blank"}
  - [Eyda MKT](http://eyda.mx){:target="_blank"}
 
-Me gusta leer bastante y me gustaría compartir contigo todo lo que voy aprendiendo y descubriendo día a día, con la esperanza de que al menos algo te sea de utilidad en tu trabajo, empresa o vida y que puedas, al igual que yo, tomar la decisión de decir que: "Estoy _#DejandoElgodinato_".
+Me gusta leer bastante y me gustaría compartir contigo todo lo que voy aprendiendo y descubriendo día a día, con la esperanza de que al menos algo te sea de utilidad en tu trabajo, empresa o vida y que puedas, al igual que yo, tomar la decisión de decir que: "Estoy _#EscapandoDelGodinato_".
 
 Me puedes seguir en mis diferentes redes sociales, siempre como _lalomergo_.

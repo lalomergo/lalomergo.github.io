@@ -50,7 +50,7 @@ author:
 
 # Select which links to show in the footer
 footer-links-active:
-  rss: false
+  rss: true
   facebook: true
   email: true
   twitter: true
@@ -155,6 +155,7 @@ prose:
     - /css
     - /img
     - /js
+    - /assets
   metadata:
     _posts:
       - name: "layout"

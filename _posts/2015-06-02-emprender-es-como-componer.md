@@ -1,11 +1,10 @@
 ---
-id: 40
 title: ¿Emprender es como componer música?
-date: 2015-06-02T14:32:11+00:00
+date: 2015-06-02 14:32
 author: Lalo Mercado
 layout: post
-guid: http://lalomercado.com/?p=40
 permalink: /2015/06/02/emprender-es-como-componer/
+share-img: /assets/musica.jpg
 categories:
   - Blog
   - Emprende
@@ -16,6 +15,10 @@ tags:
 ---
 <p style="text-align: justify;">
   ¿No eres músico y lo que buscas son consejos para emprender? ¿No sabes nada de música? No te has equivocado de nota: El emprender es igual que componer música. Te estarás preguntando por qué. Pues bien, por varias razones. Permíteme explicarte.
+</p>
+
+<p align="center">
+  <img width="600" src="/assets/musica.jpg"> 
 </p>
 
 <p style="text-align: justify;">

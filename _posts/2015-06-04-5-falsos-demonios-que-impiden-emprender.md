@@ -1,10 +1,9 @@
 ---
-id: 42
 title: 5 falsos demonios que nos impiden emprender
-date: 2015-06-04T17:48:05+00:00
+date: 2015-06-04 17:48
 author: Lalo Mercado
 layout: post
-guid: http://lalomercado.com/?p=42
+share-image: /assets/demonio.jpg
 permalink: /2015/06/04/5-falsos-demonios-que-impiden-emprender/
 categories:
   - Blog
@@ -15,6 +14,10 @@ tags:
 ---
 <p style="text-align: justify;">
   Los que alguna vez hemos querido emprender algo y no lo hemos hecho ha sido porque nos hemos topado con alguna situación (física o imaginaria) que nos ha impedido conseguir ese éxito.
+</p>
+
+<p align="center">
+  <img width="600" src="/assets/demonio.jpg">
 </p>
 
 <p style="text-align: justify;">

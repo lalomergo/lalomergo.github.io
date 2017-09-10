@@ -1,10 +1,10 @@
 ---
-id: 37
 title: 8 tips para conseguir el éxito según Tina Roth Eisenberg
-date: 2015-06-01T16:58:15+00:00
+subtitle: La fundadora de empresas como Tattly nos compartu sus 8 tips para conseguir el éxito.
+date: 2015-06-01 16:58
 author: Lalo Mercado
 layout: post
-guid: http://lalomercado.com/?p=37
+share-img: "http://www.swiss-miss.com/wp-content/uploads/2009/02/tina-roth-eisenberg1.jpg"
 permalink: /2015/06/01/8-tips-para-el-exito-segun-tina-roth-eisenberg/
 categories:
   - Blog
@@ -16,11 +16,11 @@ tags:
   - Tips
 ---
 <p style="text-align: justify;">
-   <img class="aligncenter" src="http://www.swiss-miss.com/wp-content/uploads/2009/02/tina-roth-eisenberg1.jpg" alt="8 tips para el éxito según Tina Roth Eisenberg" width="593" height="292" />
+  Tina es una persona genial y nos ofrece una lista para alcanzar el éxito. <strong><a href="https://twitter.com/swissmiss" target="_blank">Tina Roth Eisenberg</a></strong> es una emprendedora serial (<strong><a href="http://www.swiss-miss.com/" target="_blank">Swissmiss</a>, <a href="http://studiomates.com/" target="_blank">Studiomates</a>, <a href="http://creativemornings.com/" target="_blank">CreativeMornings</a>, <a href="http://tattly.com/" target="_blank">Tattly</a> y <a href="https://teuxdeux.com/" target="_blank">Teuxdeux</a></strong>) originaria de Suiza y radicada en Nueva York. A través del sitio de <strong><a href="http://ecommerce.shopify.com/" target="_blank">Shopify</a></strong>, ella explicó lo que a su parecer son los 8 puntos más importantes para alcanzar el éxito en tu vida y en tu empresa.
 </p>
 
-<p style="text-align: justify;">
-  Tina es una persona genial y nos ofrece una lista para alcanzar el éxito. <strong><a href="https://twitter.com/swissmiss" target="_blank">Tina Roth Eisenberg</a></strong> es una emprendedora serial (<strong><a href="http://www.swiss-miss.com/" target="_blank">Swissmiss</a>, <a href="http://studiomates.com/" target="_blank">Studiomates</a>, <a href="http://creativemornings.com/" target="_blank">CreativeMornings</a>, <a href="http://tattly.com/" target="_blank">Tattly</a> y <a href="https://teuxdeux.com/" target="_blank">Teuxdeux</a></strong>) originaria de Suiza y radicada en Nueva York. A través del sitio de <strong><a href="http://ecommerce.shopify.com/" target="_blank">Shopify</a></strong>, ella explicó lo que a su parecer son los 8 puntos más importantes para alcanzar el éxito en tu vida y en tu empresa.
+<p align="center">
+   <img  src="http://www.swiss-miss.com/wp-content/uploads/2009/02/tina-roth-eisenberg1.jpg" alt="8 tips para el éxito según Tina Roth Eisenberg" width="600"/>
 </p>
 
 <p style="text-align: justify;">

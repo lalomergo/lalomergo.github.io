@@ -4,7 +4,7 @@ date: 2015-06-05 17:06
 author: Lalo Mercado
 layout: post
 permalink: /2015/06/05/talento-o-habilidad/
-share-image: /assets/talento.jpg
+share-image: "/assets/talento.jpg"
 categories:
   - Blog
   - Emprende

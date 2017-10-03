@@ -3,7 +3,7 @@ title: 5 falsos demonios que nos impiden emprender
 date: 2015-06-04 17:48
 author: Lalo Mercado
 layout: post
-share-image: /assets/demonio.jpg
+share-image: "/assets/demonio.jpg"
 permalink: /2015/06/04/5-falsos-demonios-que-impiden-emprender/
 categories:
   - Blog

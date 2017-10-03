@@ -1,11 +1,10 @@
 ---
-id: 117
 title: Recomendaciones para mejorar tu concentración.
-date: 2015-06-07T16:23:48+00:00
+date: 2015-06-07 16:23
 author: Lalo Mercado
 layout: post
-guid: http://lalomercado.com/?p=117
 permalink: /2015/06/07/mejora-tu-concentracion/
+share-img: "/assets/concentracion.jpg"
 categories:
   - Blog
   - Motivación
@@ -16,6 +15,10 @@ tags:
 ---
 <p style="text-align: justify;">
   Todos tenemos proyectos, planes y objetivos. Estoy seguro que tú también quieres hacer muchas cosas. Y eso está genial. Sin embargo, tenemos que cuidar de uno de nuestros principales recursos: Nuestro cerebro.
+</p>
+
+<p align="center">
+  <img width="600" src="/assets/concentracion.jpg">
 </p>
 
 <p style="text-align: justify;">

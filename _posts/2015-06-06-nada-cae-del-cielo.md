@@ -4,7 +4,7 @@ date: 2015-06-06 14:36
 author: Lalo Mercado
 layout: post
 permalink: /2015/06/06/nada-cae-del-cielo/
-share-img: "/assets/nada_cae.jpg"
+share-img: "assets/nada_cae.jpg"
 categories:
   - Blog
   - Motivación

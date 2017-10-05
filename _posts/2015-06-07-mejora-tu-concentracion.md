@@ -4,7 +4,7 @@ date: 2015-06-07 16:23
 author: Lalo Mercado
 layout: post
 permalink: /2015/06/07/mejora-tu-concentracion/
-share-img: "/assets/concentracion.jpg"
+share-img: "assets/concentracion.jpg"
 categories:
   - Blog
   - Motivación

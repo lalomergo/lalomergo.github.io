@@ -4,7 +4,7 @@ date: 2015-06-02 14:32
 author: Lalo Mercado
 layout: post
 permalink: /2015/06/02/emprender-es-como-componer/
-share-img: "/assets/musica.jpg"
+share-img: "assets/musica.jpg"
 categories:
   - Blog
   - Emprende

@@ -4,7 +4,7 @@ date: 2017-10-05 14:00
 author: Lalo Mercado
 layout: post
 permalink: /2017/10/05/lo-que-el-cubo-de-rubik-me-enseno/
-share-img: "/assets/thinking1.jpg"
+share-img: "assets/thinking1.jpg"
 categories:
   - Blog
   - Motivación

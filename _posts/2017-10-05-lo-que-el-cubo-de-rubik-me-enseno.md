@@ -21,7 +21,7 @@ Pues bien, mi relación con el cubo de Rubik nunca fue muy civilizada, por decir
 
 ![Cubo Rubik](/assets/rubik.jpg)
 
-Así que por fin, en el 2010, me compré un cubo de Rubik _original_ (por cierto, no compren la [marca Rubik](http://amzn.to/2xmOZSPe){:target="_blank"}, es mucho mejor la marca [Moyu](http://amzn.to/2y6AwtG){:target="_blank"}). Fue entonces que me decidí a resolverlo. Intenté aprender los pasos que venían en el manual y por fin, después de una noche de desvelo y varios intentos sin buenos resultados, logré resolverlo. Pero ese fue el problema. De alguna manera me sentí satisfecho, pero cuando quise volver a intentarlo, me di cuenta que no me había aprendido ningún paso y por lo tanto, realmente no podría resolver el cubo. Es decir, estaba capacitado para resolverlo tanto como estaba capacitado para explicar el bosón de Higgs. En otras palabras, no había aprendido nada.
+Así que por fin, en el 2010, me compré un cubo de Rubik _original_ (por cierto, no compren la [marca Rubik](http://amzn.to/2y5SsnL){:target="_blank"}, es mucho mejor la marca [Moyu](http://amzn.to/2y6AwtG){:target="_blank"}). Fue entonces que me decidí a resolverlo. Intenté aprender los pasos que venían en el manual y por fin, después de una noche de desvelo y varios intentos sin buenos resultados, logré resolverlo. Pero ese fue el problema. De alguna manera me sentí satisfecho, pero cuando quise volver a intentarlo, me di cuenta que no me había aprendido ningún paso y por lo tanto, realmente no podría resolver el cubo. Es decir, estaba capacitado para resolverlo tanto como estaba capacitado para explicar el bosón de Higgs. En otras palabras, no había aprendido nada.
 
 Nuevamente caí en una _pereza_ mental y abandoné mis intentos por resolver el cubo. La admiración por la gente que sí podía hacerlo regresó y yo era nuevamente una persona más que admiraba a quienes sí podían hacerlo.
 
@@ -64,4 +64,4 @@ Al final, no soy un campeón resolviendo el cubo de Rubik, pero sí soy bastante
 
 Espero esta pequeña reflexión, sea una parábola que te permita ver tus retos de manera diferente y que puedas darte cuenta que no importa qué tan complejo veas ese reto, siempre habrá manera de que lo domines si tienes la motivación y el tiempo para conquistarlo.
 
-PD: ¿Te interesan los cubos de Rubik? Te recomiendo la marca [Moyu](http://amzn.to/2y6AwtG){:target="_blank"}, la marca [Shengshou](http://amzn.to/2y5Rl7z)i{:target="_blank"} o este llamado [GHOST](http://amzn.to/2z48IUz){:target="_blank"} que es en verdad bello.
+PD: ¿Te interesan los cubos de Rubik? Te recomiendo la marca [Moyu](http://amzn.to/2y6AwtG){:target="_blank"}, la marca [Shengshou](http://amzn.to/2y5Rl7z){:target="_blank"} o este llamado [GHOST](http://amzn.to/2z48IUz){:target="_blank"} que es en verdad bello.

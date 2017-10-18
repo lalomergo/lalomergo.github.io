@@ -6,7 +6,7 @@ share-img: "assets/libros_main.jpg"
 ---
 ![Libros](/assets/libros_main.jpg)
 
-Aquí encontrarás una lista de libros que he leído y que te recomiendo ampliamente. La lista está dividida en secciones, sin ningún orden en particular.
+Te comparto una lista de libros que he leído y que recomiendo ampliamente. La lista está dividida en secciones, sin ningún orden en particular.
 
 En la mayoría de los libros encontrarás la versión en inglés y en español, es cuestión de gustos.
 
@@ -89,6 +89,6 @@ En la mayoría de los libros encontrarás la versión en inglés y en español, 
  - **The Power of Now - Eckhart Tolle**
    - [Inglés](http://amzn.to/2zy9qd6){:target="_blank"} / [Español](http://amzn.to/2xP44gu){:target="_blank"}
 
-Hasta aquí mis recomendaciones. Cada vez que encuetre un libro que valga la pena, lo iré colocando en esta lista.
+Hasta aquí mis recomendaciones. Cada vez que encuentre un libro que valga la pena, lo iré colocando en esta lista.
 
-Comentáme en [Twitter](http://www.twitter.com/lalomergo){:target="_blank"} o en [Facebook](http://www.facebook.com/lalomergo){:target="_blank"} si tienes recomendaciones o sugerencias.
+Comentáme en [Twitter](http://www.twitter.com/lalomergo){:target="_blank"} o en [Facebook](http://www.facebook.com/lalomergo){:target="_blank"} si tienes recomendaciones o sugerencias que te gustaría que se agregaran.

@@ -24,6 +24,7 @@ description: Ideas y reflexiones de un geek queriendo emprender
 # List of links in the navigation bar
 navbar-links:
     #Archivo: "archivo"
+  Libros: "libros"
   Acerca de mí: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)

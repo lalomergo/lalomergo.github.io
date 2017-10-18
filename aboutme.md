@@ -4,7 +4,7 @@ title: Acerca de mí
 subtitle: _#EscapandoDelGodinato
 ---
 
-¡Hola y bienvenidos!
+¡Hola y bienvenido!
 
 Mi nombre es Lalo Mercado. Soy un Ingeniero en Sistemas y me describo como un Linux fanboy, amante de la lectura y emprendedor en ciernes. Soy un geek escapando del godinato.
 
@@ -14,7 +14,7 @@ Desde hace tiempo, he sido un asiduo lector de blogs en internet y este blog es 
 
 Hace unos años escribí algunas cosas para [Todo Startups](http://www.todostartups.com/){:target="_blank"} y mi propio blog siempre fue el paso esperado.
 
-He dado algunas pláticas y conferencias de _negocios_, _motivación_ y _emprendimiento_ para instituciones como el CLEU escuela de negocios en Puebla o el Centro Universitario de Tehuacán.
+He dado algunas pláticas y conferencias de _negocios_, _motivación_ y _emprendimiento_ para instituciones como el CLEU escuela de negocios en Puebla o el Centro Universitario de Tehuacán, Puebla.
 
 En los últimos 5 años he _intentado_ iniciar diversos negocios y como dicen por ahí que los fracasos cuentan tanto como los logros (o más), aquí te listo mis proyectos fallidos.
 

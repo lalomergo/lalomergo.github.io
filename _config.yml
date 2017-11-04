@@ -24,6 +24,7 @@ description: Ideas y reflexiones de un geek queriendo emprender
 # List of links in the navigation bar
 navbar-links:
     #Archivo: "archivo"
+    #Tech Blog: "tech"  
   Libros: "libros"
   Acerca de mí: "aboutme"
 

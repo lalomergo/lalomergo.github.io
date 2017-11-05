@@ -1,9 +1,9 @@
 ---
 title: No busques inversionista 
-date: 2017-11-05 00:00
+date: 2017-11-04 00:00
 author: Lalo Mercado
 layout: post
-permalink: /2017/11/05/no-busques-inversionista/
+permalink: /2017/11/04/no-busques-inversionista/
 share-img: "assets/money.jpg"
 categories:
   - Blog
@@ -13,6 +13,8 @@ tags:
 Existe una idea generalizada en el mundo de los emprendedores de que lo primero que debes buscar, incluso antes de comenzar tu negocio es el de buscar una incubadora o un inversionista. Que lo más importante es tener un capital inicial que te permita arrancar operaciones. Nada más alejado de la realidad.
 
 En [ocasiones anteriores](/2015-06-04-5-falsos-demonios-que-impiden-emprender.md) ya hablé de cómo el financiamiento es un falso demonio para iniciar tu negocio. Ciertamente hay excepciones y a menos que quieras iniciar un negocio que requiera GRANDES inversiones iniciales en maquinaria (aún así primero hay que justificar dicha inversión), debes evitar intentar entrar en una incubadora o conseguir de entrada un inversionista. ¿Por qué?
+
+![Emprendedor](/assets/emprendedor1.jpg)
 
 Si tienes la intención de iniciar una startup o negocio y tienes una idea genial que quieres echar a andar, tu __primer deber__ es justificar la existencia de tu producto o servicio. Es decir, __debes probar que tu producto o servicio se necesita en el mundo real__. ¿Cómo hacer esto? Continúa leyendo.
 

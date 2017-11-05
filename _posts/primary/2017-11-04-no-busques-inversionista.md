@@ -12,7 +12,7 @@ tags:
 ---
 Existe una idea generalizada en el mundo de los emprendedores de que lo primero que debes buscar, incluso antes de comenzar tu negocio es el de buscar una incubadora o un inversionista. Que lo más importante es tener un capital inicial que te permita arrancar operaciones. Nada más alejado de la realidad.
 
-En [ocasiones anteriores](/2015-06-04-5-falsos-demonios-que-impiden-emprender.md) ya hablé de cómo el financiamiento es un falso demonio para iniciar tu negocio. Ciertamente hay excepciones y a menos que quieras iniciar un negocio que requiera GRANDES inversiones iniciales en maquinaria (aún así primero hay que justificar dicha inversión), debes evitar intentar entrar en una incubadora o conseguir de entrada un inversionista. ¿Por qué?
+En [ocasiones anteriores](/2015/06/04/5-falsos-demonios-que-impiden-emprender/) ya hablé de cómo el financiamiento es un falso demonio para iniciar tu negocio. Ciertamente hay excepciones y a menos que quieras iniciar un negocio que requiera GRANDES inversiones iniciales en maquinaria (aún así primero hay que justificar dicha inversión), debes evitar intentar entrar en una incubadora o conseguir de entrada un inversionista. ¿Por qué?
 
 ![Emprendedor](/assets/emprendedor1.jpg)
 

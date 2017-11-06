@@ -1,48 +1,45 @@
 ---
-title: No busques inversionista 
+title: Reseña a Cryptonomicon de Neal Stephenson
 date: 2017-11-05 00:00
 author: Lalo Mercado
 layout: post
-permalink: /2017/11/05/no-busques-inversionista/
-share-img: "assets/money.jpg"
+permalink: /resenas/cryptonomicon/
+share-img: "assets/resenas/cryptonomicon/neal.jpg"
 categories:
-  - Blog
+  - Reseña
 tags:
-  - Inversión
+  - Reseña
+  - Libro
+  - Cryptonomicon
 ---
-Existe una idea generalizada en el mundo de los emprendedores de que lo primero que debes buscar, incluso antes de comenzar tu negocio es el de buscar una incubadora o un inversionista. Que lo más importante es tener un capital inicial que te permita arrancar operaciones. Nada más alejado de la realidad.
+Una de las mejores novelas geek que hay. Punto. Tiene de todo, tecnología, segunda guerra mundial, oro, espionaje, batallas, criptoanálisis, negocios, amor y bastantes temas geeks.
 
-En [ocasiones anteriores](/2015-06-04-5-falsos-demonios-que-impiden-emprender.md) ya hablé de cómo el financiamiento es un falso demonio para iniciar tu negocio. Ciertamente hay excepciones y a menos que quieras iniciar un negocio que requiera GRANDES inversiones iniciales en maquinaria (aún así primero hay que justificar dicha inversión), debes evitar intentar entrar en una incubadora o conseguir de entrada un inversionista. ¿Por qué?
+![cryptonomicon2](/assets/resenas/cryptonomicon/neal.jpg)
 
-Si tienes la intención de iniciar una startup o negocio y tienes una idea genial que quieres echar a andar, tu __primer deber__ es justificar la existencia de tu producto o servicio. Es decir, __debes probar que tu producto o servicio se necesita en el mundo real__. ¿Cómo hacer esto? Continúa leyendo.
+Debo reconocer que fue la primera novela que leí de Neal Stepheson y para cualquier novato de la literatura de Stephenson fue un poco complejo entender su manera de describir las cosas, pero conforme la novela se va desarrollando y tu gusto se familiariza con la redacción de Stephenson, tu lectura se va haciendo mucho más fluida.
 
-### Saca al mercado tu Producto Mínimamente Viable
-La aproximación más exitosa es la que nos explica Eric Ries en su libro [Lean Startup](http://amzn.to/2zkkcG4){:target="_blank"}, donde nos dice que básicamente debemos buscar la manera más ágil y económica de sacar el producto al mercado. La mayoría de las veces buscamos que nuestra primera version del producto sea lo más completa posible, pero al hacer esto estamos gastando muchos recursos, en tiempo, esfuerzo y dinero de los fundadores, y al ser un producto nuevo, aún no estamos seguros si realmente se venderá.
+Después de casi 20 años de publicado Cryptonomicon (se publicó en 1999), al fin tuve la suerte de encontrarme con ella y leerla. Para ser sincero, las recomendaciones no venían de muchas personas, pero hubo [una persona](http://aaronbenitez.blog/){:target="_blank"} a la que por fin escuché y le agradezo por tan buena recomendación.
 
-El método _Lean_ de Eric Ries nos propone el concepto de MVP o _Producto Mínimamente Viable_ por sus siglas en inglés. Un MVP debería contener la funcionalidad __básica__ para que pueda ser utilizado y cumpla con las espectativas de tu cliente.
+Aún cuando la novela se aproxima ya a sus 20 años de publicación sorprende que en su relato no se note casi la edad. En especial al tratarse de una novela geek en la que se narran y describen tecnologías utilizadas a finales de los años 90's y que siguen sonando bastante actuales.
 
-Por ejemplo, si tu producto es una app que calcula impuestos, entonces deberás construir tu MVP con lo mínimo necesario para calcular los impuestos y nada más. Por lo tanto, deberás elegir solo una plataforma inicialmente, en lugar de querer publicar tu app en todas. Tal vez deberías dejar fuera el enviar tu resumen de impuestos por email. También deberías evitar desarrollar una cuenta que se ligue con tus redes sociales y mejor hacer una creación de cuenta lo más sencilla posible. La idea es que la primera versión de tu producto o servicio sea un MVP. En la siguiente imagen podrás ver el concepto básico de un MVP.
+La novela se caracteriza por contar con 2 líneas principales de tiempo. La primera de ellas es de __los años 40's__ y se desarrolla antes y durante la Segunda Guerra Mundial, con uno de los prinicpales personajes de la novela, Lawrence Waterhouse. Siendo este un matemático apasionado del criptoanálisis, forma parte de un equipo de élite que combate desde la criptografía a los alemanes, junto con personajes históricos como el magnífico Alan Turing.
 
+La segunda línea de tiempo se desarrolla en el __"presente"__, es decir, a finales de los 90's, con la presentación del bisnieto de Lawrence Waterhouse: Randy Waterhouse. Randy es un geek en toda la extensión de la palabra. Es un apasionado de los juegos de rol, fanático de los sistemas UNIX y con un gran interés en la seguridad informática, así como en los nuevos negocios digitales, como las criptomonedas. Junto a sus socios y amigos, Randy inicia la aventura de abrir un negocio de telecomunicaciones en las Filipinas, pero lo que ahí encuentran, les lleva a una mega aventura de criptografía, secretos, espionaje y oro, mucho oro.
 
-![MVP](/assets/lean_startup/minimal-viable-product-henrik-kniberg.png)
+![cryptonomicon1](/assets/resenas/cryptonomicon/1.jpg)
 
-En la imagen puedes ver que no se trata de armar tu producto característica por característica, sino que desde la primera versión tu producto pueda resolver el problema para el cual fue creado. Una vez que puedas hacer eso, en las siguientes versiones podrás ir completando o haciendo más sofisticado tu producto.
+Es una novela __bastante__ larga, con más de 800 páginas, pero sin duda es una de las mejores novelas geek. La longitud de la novela no se percibe, ya que la trama se vuelve cada vez más trepidante y el salto entre las líneas de tiempo, aún cuando al principio se siente extraño, finalmente acaba por dar a la historia una gran profundidad y ambas líneas de tiempo se terminan complementando.
 
-¿Por qué es importante sacar cuanto antes tu producto? Principalmente por dos razones. La primera, para mostrar lo más rápido posible tu producto a tus clientes, de manera que te den retroalimentación acerca de las cosas que salieron bien y de las que requieren más trabajo y todo esto para saber si realmente los clientes pagarán lo que pides por tu producto o servicio. Y la segunda razón es para minimizar el desperdicio de recursos, que para un emprendedor serán muy escasos (tiempo, dinero, etc.). Finalmente, si tu MVP no soluciona el problema como se esperaba, no habrás desperdiciado recursos y podrás comenzar a desarrollar la siguiente solución lo más rápido posible.
+Por otro lado, Stephenson realmente hizo una gran labor de investigación e involucra en la novela tremenda cantidad de referencias geek y elementos técnicos, como por ejemplo retrata con lujo de detalle mecanismos de criptografía, incluye scripts de Perl, explica comandos en UNIX y tecnologías de espionaje. Incluso se adjunta al final de la novela, un tutorial para encriptar tus propios mensajes con la ayuda de un mazo de cartas.
 
-### Di no a los inversionistas al comienzo de tu proyecto
-Y bien, ¿y todo esto qué tiene que ver con __no__ pedir dinero al inicio de tu proyecto? Hagamos un pequeño ejercicio de imaginación y pongámonos por un minuto en la cabeza de un inversionista. Imagina que cuentas con capital para invertir y se te acerca un(a) emprendedor(a) para solicitar una inversión inicial para su idea de negocio, con ninguna experiencia y nada más que la corazonada de que su idea funcionará. ¿Le darías el dinero? ¿Qué garantías tienes de que su proyecto funcionará? ¿En qué tiempo recuperarás tu inversión? Estas son algunas preguntas que tu posible inversionista se hará y que deberás saber responder.
+La versión que leí es la traducción al español de España. El traductor hizo una verdadera buena labor al traducir el original, sin embargo, hay términos que solo se utilizan en España y al leerlos en lationamérica suenan extraños e incluso pueden distraerte de la idea principal. Recomiendo en la medida de lo posible, adquirir la versión original en inglés, ya que hay términos o acrónimos que solo funcionan en el inglés y al traducirlos se pierde el sentido. 
 
-![Dinero](/assets/money.jpg)
+Cryptonomicon tuvo tal éxito en su lanzamiento, que Neal Stephenson escribió varias precuelas llamadas ["Ciclo Barroco"](#){:target="_blank"}, que se compone de 3 novelas más (_Azogue, La Confusión y El Sistema del Mundo_) y que espero poder leer proximamente. 
 
-"_Bueno, entonces buscaré una incubadora_" me podrás decir. Aún peor. Permíteme explicarte. Las incubadoras son negocios y como tal, buscan generar ingresos, solo que a diferencia de un inversionista, a la incubadora casi no le importará si tu negocio se mantiene a flote o no. La mayor parte de las incubadoras te ofrecerán cursos de capacitación, te enseñarán a hacer un _plan de negocios_ y te ayudarán a bajar algún fondo de inversión, para finalmente, quedarse con una parte de este fondo de inversión o cobrarte una cuota por la capacitación prestada. Sin embargo, pocas buscarán que tu producto cumpla realmente las espectativas de tus clientes o que soluciones un problema real. No estoy diciendo que sean completamente malas, sino que no deberían ser tu primera opción al intentar crear un negocio.
+![cryptonomicon3](/assets/resenas/cryptonomicon/2.jpg)
 
-### Enfrenta a tus clientes
-¿Qué hacer entonces? Mi consejo es el siguiente: __Permite que tus futuros clientes sean tus maestros__. ¿Cómo? Mostrándoles tu producto lo más rápido posible y con el menor gasto posible. Si tu producto o servicio realmente soluciona un problema, lo comprarán sin dudar. En cambio, si a tu producto o servicio le hace falta algo o le sobra algo, ellos te lo dirán. Pregúntales mucho. Escúchalos todo el tiempo. Levanta encuestas. Observa sus reacciones. Haz lo necesario para obtener retroalimentación de las primeras versiones de tu producto o servicio y luego, aplica lo más rápido posible los cambios requeridos.
+Definitivamente Cryptonomicon te atrapa desde el inicio de la novela y poco a poco va introduciendo elementos que harán que no quieras dejar la novela y si eres un geek, la disfrutarás aún más, -garantizado-. Al ser la primera novela que leo de Stephenson, puedo decir que fue la que me enroló en las filas del club de fans de Stephenson y ya compré dos novelas más de él: [REAMDE](#){:target="_blank"} y [Seveneves](#){:target="_blank"}.
 
-"_Pero yo estoy muy seguro de que mi producto funcionará así_", podrás decir. No, no lo estás. Lo sabrás hasta que se lo des a tus clientes. No tengas miedo de cambiar y mutar tu producto las veces que sea necesario, ya que solo de esa manera podrás acercarte a resolver el problema de tus clientes. Alguien sabio una vez me dijo: "__No te enamores de la solución, enamórate del problema__". Ya que solo poniendo tus ojos en el problema, podrás desarrollar una solución que se adapte a las necesidades de tus clientes.
+Finalmente puedo decir que la novela ES una excelente novela geek que aunque es bastante larga, no lo sentirás. El estilo de redacción de Stephenson es bastante ameno y descriptivo y tiene destellos de comicidad que vienen muy bien con la trama. Desde el punto de vista de los emprendedores la trama de la novela escenifica una buena muestra de __cómo lograr tus objetivos, sin importar lo que pase__ y se resume en una frase de uno de los personajes principales, Bobby Shaftoe, y que hasta hoy en día se ha quedado conmigo: _"Demuestra un poco de adaptabilidad".
 
-¿Qué pasará una vez que le soluciones el problema a tus clientes? Lo primero que pasará es que tus clientes comenzarán a utilizar tu producto o servicio. Lo siguiente es que comenzarás a obtener ingresos por tu producto o servicio. Una vez que tengas tus primeras ventas, podrás estimar los recursos que necesitarás para producir en masa tu producto, completarlo u optimizarlo. Y cuando llegues a este punto, _entonces_ sí podrás comenzar a buscar un inversionista o a una _aceleradora_ (diferente a una incubadora) para que te ayuden en el proceso de crecimiento y consolidación. Pero a diferencia de la etapa anterior podrás sin ningún problema decir cuánto estás vendiendo, qué problema estás resolviendo, quién es tu cliente, cuánto requieres de inversión y en qué tiempo estimado podrás regresar esa inversión. Incluso, si tus ventas van bien y tienes claro el camino a seguir, no necesitarás de un inversionista.
-
-Si tienes una idea de negocio, por favor no pierdas tiempo buscando un inversionista. Mejor aprovecha tu tiempo en sacar a la venta tu producto de la manera más rápida que sea posible. Y a partir de ahí, si tus clientes aceptan tu solución, entonces podrás -con toda la facilidad del mundo-, encontrar el inversionista ideal para tu negocio. Pero esa, es otra historia.
-
+/END

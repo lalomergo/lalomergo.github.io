@@ -685,3 +685,8 @@ td.gutter {
 article > p{
   text-align: justify;
 }
+
+article > p > img{
+    display: block;
+    margin: auto;
+}

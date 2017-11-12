@@ -1,45 +1,73 @@
 ---
-title: Reseña a Cryptonomicon de Neal Stephenson
+title: Cómo evitar la procrastinación
 date: 2017-11-05 00:00
 author: Lalo Mercado
 layout: post
-permalink: /resenas/cryptonomicon/
+permalink: /2017/11/04/no-busques-inversionista/
 share-img: "assets/resenas/cryptonomicon/neal.jpg"
 categories:
-  - Reseña
+  - Blog
 tags:
-  - Reseña
-  - Libro
-  - Cryptonomicon
+  - Tips
+  - Productividad
 ---
-Una de las mejores novelas geek que hay. Punto. Tiene de todo, tecnología, segunda guerra mundial, oro, espionaje, batallas, criptoanálisis, negocios, amor y bastantes temas geeks.
+Todo mundo se distrae y de una u otra manera, todos tendemos a procrastinar. Cada quien en su propia labor y en diferentes niveles, pero todos perdemos la concentración o preferimos distraernos y postergar los deberes. En esta entrada te compartiré una manera de combatir la procrastinación a través de una lista. Un método que a mí me ha funcionado genial.
+
+### Qué es la procrastinación
+Si estás leyendo esta entrada probablemente ya sepas qué es la procrastinación. De cualquier forma, hablemos un poco de ello para poner algo de terreno común. 
+
+Básicamente _procrastinar_ es __cuando postergamos deberes o actividades que debemos atender e interponer actividades entretenidas, divertidas o irrelevantes (o las tres)__. El problema obvio de procrastinar es que no atendemos las cosas que sí debemos atender y las dejamos a un _futuro_ incierto e idealizado.
 
 ![cryptonomicon2](/assets/resenas/cryptonomicon/neal.jpg)
 
-Debo reconocer que fue la primera novela que leí de Neal Stepheson y para cualquier novato de la literatura de Stephenson fue un poco complejo entender su manera de describir las cosas, pero conforme la novela se va desarrollando y tu gusto se familiariza con la redacción de Stephenson, tu lectura se va haciendo mucho más fluida.
+Pero el tema no termina ahí. Una de las peores consecuencias de procrastinar (ademas de no hacer lo que debemos), es que terminamos con un terrible cargo de conciencia. Nos golpeamos mentalmente al darnos cuenta que hemos desperdiciado tiempo e incluso dudamos de nuestra fuerza de voluntad. En situaciones graves y recurrentes, esto nos puede llevar a algunos tipos de depresión.
 
-Después de casi 20 años de publicado Cryptonomicon (se publicó en 1999), al fin tuve la suerte de encontrarme con ella y leerla. Para ser sincero, las recomendaciones no venían de muchas personas, pero hubo [una persona](http://aaronbenitez.blog/){:target="_blank"} a la que por fin escuché y le agradezo por tan buena recomendación.
 
-Aún cuando la novela se aproxima ya a sus 20 años de publicación sorprende que en su relato no se note casi la edad. En especial al tratarse de una novela geek en la que se narran y describen tecnologías utilizadas a finales de los años 90's y que siguen sonando bastante actuales.
+### Por qué procrastinamos
+Imagina que vives en los tiempos de nuestros ancestros más antiguos. Imagina ese mundo salvaje, lleno de peligros en donde cada día al despertar, no sabes si vivirás un día más o terminarás siendo el alimento de algún tigre  _diente de sable_.
 
-La novela se caracteriza por contar con 2 líneas principales de tiempo. La primera de ellas es de __los años 40's__ y se desarrolla antes y durante la Segunda Guerra Mundial, con uno de los prinicpales personajes de la novela, Lawrence Waterhouse. Siendo este un matemático apasionado del criptoanálisis, forma parte de un equipo de élite que combate desde la criptografía a los alemanes, junto con personajes históricos como el magnífico Alan Turing.
+Ahora, imagina que sales a caminar y tienes hambre. De repente, en tu andar, te encuentras con un arbusto de moras. Deliciosas moras rojas. Obviamente no vas a pensar en juntar algunas semillas, porque tardarán muchísimo en crecer y no sabes si sobrevivirás para mantener a esa planta en su crecimiento, además de que probablemente tu familia y tú se moverán de lugar contínuamente, evitando el invierno y buscando mejores lugares para vivir. ¿Qué haces? ¿Guardas las moras para plantarlas o te las comes? 
 
-La segunda línea de tiempo se desarrolla en el __"presente"__, es decir, a finales de los 90's, con la presentación del bisnieto de Lawrence Waterhouse: Randy Waterhouse. Randy es un geek en toda la extensión de la palabra. Es un apasionado de los juegos de rol, fanático de los sistemas UNIX y con un gran interés en la seguridad informática, así como en los nuevos negocios digitales, como las criptomonedas. Junto a sus socios y amigos, Randy inicia la aventura de abrir un negocio de telecomunicaciones en las Filipinas, pero lo que ahí encuentran, les lleva a una mega aventura de criptografía, secretos, espionaje y oro, mucho oro.
+![cryptonomicon2](/assets/resenas/cryptonomicon/neal.jpg)
 
-![cryptonomicon1](/assets/resenas/cryptonomicon/1.jpg)
+La decisión obvia será comerte las moras, ahora que puedes. Es más, te llenarás de moras. Ya que no sabes si volverás a comer ese día o cuándo volverás a probar las deliciosas moras. Tal vez, después de que te hayas llenado, les llevaras también a tu familia, quienes se las comerán en el instante.
 
-Es una novela __bastante__ larga, con más de 800 páginas, pero sin duda es una de las mejores novelas geek. La longitud de la novela no se percibe, ya que la trama se vuelve cada vez más trepidante y el salto entre las líneas de tiempo, aún cuando al principio se siente extraño, finalmente acaba por dar a la historia una gran profundidad y ambas líneas de tiempo se terminan complementando.
+Pues bien, este comportamiento se quedó almacenado en el _cableado_ de nuestro cerebro. Lo que hace que básicamente nuestro cerebro prefiere la gratificación instantánea a tener que enfrentarse a actividades frustrantes o estresantes, por lo tanto, las evita y las pone en un _futuro_ que solo existe en nuestra imaginación. En pocas palabras, nuestro cerebro prefiere cosas _agradables_ ya y no está tan de acuerdo con las cosas a largo plazo.
 
-Por otro lado, Stephenson realmente hizo una gran labor de investigación e involucra en la novela tremenda cantidad de referencias geek y elementos técnicos, como por ejemplo retrata con lujo de detalle mecanismos de criptografía, incluye scripts de Perl, explica comandos en UNIX y tecnologías de espionaje. Incluso se adjunta al final de la novela, un tutorial para encriptar tus propios mensajes con la ayuda de un mazo de cartas.
+### Cómo aprovechar la procrastinación para nuestro provecho
+Sabrás que es complicado combatir a la procrastinación ya que tarde o temprano a todos nos toca. Sin embargo, existen diversos métodos para ayudarte a contrarestarla. Y en especial puedes aprovechar la procrastinación. Hoy te comparto uno que me ha funcionado __bastante__ bien. Lo único que necesitas es _una hoja de papel_, _un lapiz_ y _15 minutos de planeación_.
 
-La versión que leí es la traducción al español de España. El traductor hizo una verdadera buena labor al traducir el original, sin embargo, hay términos que solo se utilizan en España y al leerlos en lationamérica suenan extraños e incluso pueden distraerte de la idea principal. Recomiendo en la medida de lo posible, adquirir la versión original en inglés, ya que hay términos o acrónimos que solo funcionan en el inglés y al traducirlos se pierde el sentido. 
+Bien, una vez que tienes los elementos necesarios, lo único que necesitarás es tomar _15 minutos_ al inicio de cada día y __decidir qué actividades llevarás a cabo en ese día__. No solo coloques las dos o tres principales actividades, sino que haz una lista completa de cosas que tengas que hacer, incluso las que no son tan importantes o que has dejado de lado por algún tiempo. ¿Te hace falta estudiar para esa materia en la que tienes problemas? Anótalo. ¿Quisieras aprender a editar audio? Anótalo. ¿Tienes pendiente ese post y no te animas a terminarlo? Anótalo también. ¿Has olvidado escribirle a alguno de tus amigos por un tiempo? Anótalo.
 
-Cryptonomicon tuvo tal éxito en su lanzamiento, que Neal Stephenson escribió varias precuelas llamadas ["Ciclo Barroco"](#){:target="_blank"}, que se compone de 3 novelas más (_Azogue, La Confusión y El Sistema del Mundo_) y que espero poder leer proximamente. 
+La idea es que tengas en tu lista al menos unas 5 actividades __importantes__ por hacer. Ahora, ordena estas actividades por importancia. Es decir, a la actividad más improtante colócale el número "1", a la siguiente en importancia asígnale el número "2" y así con las demás, hasta numerar todas tus actividades. Las actividades deben ser bastante explícitas. Evita actividades _vagas_ como "Hacer sitio web". Mejor desglosa la actividad en cosas reales como "Comprar dominio" o "Instalar Wordpress". 
 
-![cryptonomicon3](/assets/resenas/cryptonomicon/2.jpg)
+A continuación te comparto un ejemplo de una lista de actividades:
 
-Definitivamente Cryptonomicon te atrapa desde el inicio de la novela y poco a poco va introduciendo elementos que harán que no quieras dejar la novela y si eres un geek, la disfrutarás aún más, -garantizado-. Al ser la primera novela que leo de Stephenson, puedo decir que fue la que me enroló en las filas del club de fans de Stephenson y ya compré dos novelas más de él: [REAMDE](#){:target="_blank"} y [Seveneves](#){:target="_blank"}.
+ - Actividades pendientes
+  1. Escribir post sobre "procrastinación".
+  2. Corregir página de registro de correos.
+  3. Actualizar datos de contacto en mis redes sociales.
+  4. Aprender a aplicar transparencia en fondos con GIMP.
+  5. Concertar salida con mi mejor amigo de la preparatoria.
 
-Finalmente puedo decir que la novela ES una excelente novela geek que aunque es bastante larga, no lo sentirás. El estilo de redacción de Stephenson es bastante ameno y descriptivo y tiene destellos de comicidad que vienen muy bien con la trama. Desde el punto de vista de los emprendedores la trama de la novela escenifica una buena muestra de __cómo lograr tus objetivos, sin importar lo que pase__ y se resume en una frase de uno de los personajes principales, Bobby Shaftoe, y que hasta hoy en día se ha quedado conmigo: _"Demuestra un poco de adaptabilidad".
+Ahora que tenemos nuestra lista completa de actividades pendientes y por hacer, hemos acabado con la lista. El siguiente paso es el más importante. De lo que se trata es aprovechar nuestra tendencia a procrastinar pero de manera controlada y haciendo solo las actividades que anotamos previamente. La única regla es __no salirte de lo escrito en la lista__. Pase lo que pase, las únicas actividades que tienes permitidas, son las de tu lista y en el orden de importancia que les asignaste. Por esto es importante que te tomes al menos los 15 minutos en la planeación de las actividades.
+
+![cryptonomicon2](/assets/resenas/cryptonomicon/neal.jpg)
+
+En lugar de liberar una batalla frontal contra la procrastinación, la idea es utilizar ese mismo impulso para avanzar en otras actividades igualmente importantes. Comenzamos con la actividad marcada con el número 1, si nos cansamos de esa actividad o tenemos ganas de distraernos, podemos dejar de hacerla y saltamos a la siguiente actividad, es decir, la número 2. Si nos cansamos de esa, podemos saltar a la número 3 o a cualquier otra actividad de la lista. Siempre evitando salirnos de la lista. Si el Facebook o el Youtube no está en la lista, entonces __no__ están permitidos. Puedes hacer __cualquier__ actividad, siempre y cuando esté en tu lista. 
+
+El objetivo es __terminar__ las actividades en la lista, pero si no es posible terminar alguna, pasaremos a la siguiente en orden de importancia. Ojo: Toma en cuenta que si tienes una fecha límite, __deberás__ enfocarte en esa actividad hasta terminarla, pero si tu tiempo es un poco más libre, entonces podrás aprovechar tu propia procrastinación para avanzar en otras actividades.
+ 
+Con este método _puedes procrastinar_ pero de una manera controlada, ya que siempre avanzarás en tus objetivos y aprovecharás el tiempo que antes desperdiciabas en terminar cosas que tenías pendientes anteriormente. De eso se trata, __de aprovechar el tiempo__ que antes desperdiciabas.
+
+Te comparto este método porque en lo personal me ha funcionado muy bien (¿cómo creés que terminé esta entrada?) y espero que te sirva de igual forma. El truco está en la planeación de las actividades y el compromiso que tengas con __no__ salirte de tu lista. Así que ya lo sabes, es hora de que aproveches todo el tiempo que anteriormente dejabas pasar y ¡de la mejor manera! Compárteme en los comentarios o en las redes sociales qué tal te funcionó este método y si tienes algúna mejora la método. Y recuerda, ¡no te salgas de tu lista!
+
+/END
+
+
+
+
+![cryptonomicon2](/assets/resenas/cryptonomicon/neal.jpg)
+
 
 /END

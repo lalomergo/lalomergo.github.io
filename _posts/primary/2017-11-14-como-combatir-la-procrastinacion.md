@@ -4,7 +4,7 @@ date: 2017-11-14 06:00
 author: Lalo Mercado
 layout: post
 permalink: /2017/11/14/como-combatir-la-procrastinacion-con-una-lista/
-share-img: "assets/resenas/cryptonomicon/distraccion.jpg"
+share-img: "assets/distraccion.jpg"
 categories:
   - Blog
 tags:

@@ -1,9 +1,9 @@
 ---
 title: Cómo combatir la procrastinación con una lista
-date: 2017-11-13 06:00
+date: 2017-11-14 06:00
 author: Lalo Mercado
 layout: post
-permalink: /2017/11/13/como-combatir-la-procrastinacion-con-una-lista/
+permalink: /2017/11/14/como-combatir-la-procrastinacion-con-una-lista/
 share-img: "assets/resenas/cryptonomicon/distraccion.jpg"
 categories:
   - Blog

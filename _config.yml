@@ -86,6 +86,9 @@ disqus: "lalomergo"
 # Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-58610625-1"
 
+# Enable your Mailchimp account
+mailchimp: true
+
 # Google Tag Manager ID
 #gtm: ""
 

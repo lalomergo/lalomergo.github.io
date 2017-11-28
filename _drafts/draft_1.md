@@ -22,9 +22,25 @@ Por qué tu opinión importa
 
 Una de mis personas favoritas y fuente de inspiración es el [Dr. Jordan Peterson](https://jordanbpeterson.com/){:target="_blank"}. El Dr. Peterson es psicólogo clínico y catedrático de la Universidad de Toronto.
 
-En febrero del 2017, el Dr. Peterson asistió a una conferencia en donde se habló principalmente de la libertad de expresión. Durante esta conferencia, el Dr. Peterson realizó [esta](https://www.youtube.com/watch?v=I5y19Vapk1A){:target="_blank"} intervención en donde explicó __por qué es importante que expreses tu opinión__.
+En febrero del 2017, el Dr. Peterson asistió a una conferencia en donde se habló principalmente de la libertad de expresión. Durante esta conferencia, el Dr. Peterson realizó [esta intervención](https://www.youtube.com/watch?v=I5y19Vapk1A){:target="_blank"} en donde explicó __por qué es importante que expreses tu opinión__.
 
 Esta charla ha sido un parte aguas en la creación de mi blog personal, ya que fue la que me impulsó a finalmente escribir constantemente e intentar (finalmente) crear mi propia _marca personal_.
+
+En la charla, habla sobre varios puntos importantes:
+###Somos una red, no puntos aislados
+sss
+
+###La responsabilidad de hablar
+sss
+
+###La importancia de hablar tu verdad
+sss
+
+###Cuando hables, escucha también
+sss
+
+###Las consecuencias de no hablar
+ssss
 
 Verás, resulta ser que si realmente quieres crecer de manera personal, profesional y moral, deberás ser capaz exponer tu trabajo, oficio, arte y/o ideas al mundo. De lo contrario, te deberás conformar con lo que gente te diga. Te deberás conformar con opiniones de terceros y deberás aceptar sus puntos de vista.
 
@@ -34,21 +50,9 @@ Verás, resulta ser que si realmente quieres crecer de manera personal, profesio
 
 
 
-
-
-
-
 ![cryptonomicon2](/assets/resenas/cryptonomicon/neal.jpg)
-
 
 Teniendo una plática con un amigo que acaba de ingresar a un puesto corporativo, me comenta de su interés en permanecer en su nuevo trabajo de manera "temporal" y que después se enfocará en realizar un proyecto alterno para independizarse.
 
-
-
-Todos nos distraemos de una u otra manera y todos tendemos a procrastinar. Cada quien en su trabajo o estudio y en diferentes niveles, pero todos alguna vez perdemos la concentración y preferimos distraernos/postergar los deberes. En este post te compartiré una manera de combatir la procrastinación tan solo usando una lista y nada más. Un método que a mí me ha funcionado genial.
-
-![moleskine2](/assets/moleskine2.jpg)
-
-Tip: Si estás interesado en una libreta para llevar tus listas, esta es la libreta que YO uso para hacer mi lista de actividades 👉 [Mi libreta preferida](http://amzn.to/2yzH15k){:target="_blank"}
 
 /END

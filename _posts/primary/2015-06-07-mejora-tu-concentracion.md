@@ -8,6 +8,7 @@ share-img: "assets/concentracion.jpg"
 categories:
   - Blog
   - Motivación
+  - Vida
 tags:
   - cerebro
   - Motivación

@@ -10,6 +10,7 @@ categories:
   - Blog
   - Emprende
   - Motivación
+  - Vida
 tags:
   - Emprende
   - Motivación

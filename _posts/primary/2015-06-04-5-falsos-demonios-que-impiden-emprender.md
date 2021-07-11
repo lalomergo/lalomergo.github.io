@@ -8,6 +8,7 @@ permalink: /2015/06/04/5-falsos-demonios-que-impiden-emprender/
 categories:
   - Blog
   - Emprende
+  - Vida
 tags:
   - Emprende
   - Startup

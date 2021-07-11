@@ -8,6 +8,7 @@ share-img: "assets/nada_cae.jpg"
 categories:
   - Blog
   - Motivación
+  - Vida
 tags:
   - Haz
   - Motivación

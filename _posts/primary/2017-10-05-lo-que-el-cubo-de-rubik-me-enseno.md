@@ -9,6 +9,7 @@ categories:
   - Blog
   - Motivación
   - Proyectos    
+  - Vida
 tags:
   - Motivación
 ---

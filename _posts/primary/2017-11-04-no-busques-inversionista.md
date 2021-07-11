@@ -7,6 +7,7 @@ permalink: /2017/11/04/no-busques-inversionista/
 share-img: "assets/money.jpg"
 categories:
   - Blog
+  - Vida
 tags:
   - Inversión
 ---

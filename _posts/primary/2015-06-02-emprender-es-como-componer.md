@@ -8,6 +8,7 @@ share-img: "assets/musica.jpg"
 categories:
   - Blog
   - Emprende
+  - Vida
 tags:
   - Emprende
   - Motivación

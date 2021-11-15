@@ -20,4 +20,4 @@ tags:
 - Regreso al blog e intención de postear al menos una vez a la semana
 - Por qué los devs deberían tener muchas más opciones para desarrollar una carrera que ellos deseen y no amarrarse a una empresa o a un trabaho que no les gusta.
 - La importancia de la privacidad y por qué deberíamos preocuparnos por ella
-- 
+-  

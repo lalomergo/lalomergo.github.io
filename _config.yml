@@ -24,6 +24,7 @@ description: Hacks, experiencias y opiniones
 # List of links in the navigation bar
 navbar-links:
    #Archivo: "archivo"
+  Growth: "growth"
   Tech: "tech"
     #  Marketing: "marketing"
   Vida: "vida"

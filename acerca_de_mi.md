@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Acerca de mí
-subtitle: Un poco sobre mí
+title: Sobre de mí
+subtitle: Te cuento un poco de mí
 ---
 
 ¿Alguna vez has sentido que tienes cosas qué decir y no sabes cómo? Este blog es la respuesta a ese sentimiento.

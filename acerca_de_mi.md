@@ -18,6 +18,6 @@ He dado algunas pláticas y conferencias de _negocios_, _motivación_ y _emprend
 
 Como te dije antes, me gusta leer y quisiera compartir contigo todo lo que voy aprendiendo y descubriendo día a día, con la esperanza de que algo te sea de utilidad en tu trabajo, empresa o vida.
 
-Finalmente, quiero agradecer a **AE** por ser siempre mi inspiración y motivación a ser mejor. Gracias a ti, retomé este mi blog y todos los proyectos en los que estoy trabajando. Nunca podré agradecerte lo suficiente pero, gracias, gracias por estar, gracias por creer, gracias por todo. Sé que ves a la Luna. Yo también, siempre.
+Finalmente, quiero agradecer a **AE** por ser siempre mi inspiración y motivación a ser mejor. Gracias a ti, retomé este mi blog y todos los proyectos en los que estoy trabajando. Nunca podré agradecerte lo suficiente pero, gracias, gracias por creer, gracias por existir, gracias por todo. Sé que ves a la Luna. Yo también, siempre.
 
 Me puedes seguir en mis diferentes redes sociales, siempre como _lalomergo_.

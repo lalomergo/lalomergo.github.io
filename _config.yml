@@ -17,7 +17,7 @@ baseurl: ""
 title: Lalo Mercado
 
 # Short description of your site
-description: Ideas, tech, tips y reseñas
+description: Mis ideas, reflexiones y algo de tech.
 
 # --- Navigation bar options --- #
 
@@ -84,7 +84,7 @@ disqus: "lalomergo"
 google_analytics: "UA-58610625-1"
 
 # Enable your Mailchimp account
-mailchimp: true
+mailchimp: false
 
 # Google Tag Manager ID
 #gtm: ""

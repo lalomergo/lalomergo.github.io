@@ -6,7 +6,7 @@ layout: post
 permalink: /2024/11/22/asi_inicia/
 share-img: "assets/2024/11/22/cover.webp"
 categories:
-  - Blog
+  - Vida
 tags:
   - Vida
 ---

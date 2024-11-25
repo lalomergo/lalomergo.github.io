@@ -1,0 +1,23 @@
+---
+title: Ella
+date: 2024-11-24 06:00
+author: Lalo Mercado
+layout: post
+permalink: /2024/11/24/ella/
+share-img: "assets/2024/11/24/conection.jpg"
+categories:
+  - Blog
+tags:
+  - Vida
+---
+Muchos le llaman eventos canónicos, algunos le llaman almas gemelas, pero creo que yo prefiero llamarlos reencuentros. 
+A mí me gusta creer en que sí hemos vivido vidas pasadas. Que en esas vidas pasadas hemos experimentado otras cosas y conocido a otras personas. Y así como hemos conocido a otras personas, hemos encontrado a otros amores. A veces, efímeros, pero a veces, duraderos.
+Me gusta creer también que hemos tenido amores tan fuertes, que los vínculos superan los ciclos de estas vidas y que si vuelves a coincidir con esa misma alma con la que conectaste alguna vez, estas experiencias impregnadas en ambos vuelven a surgir.
+
+Suena a ciencia ficción o a un invento místico de alguna religión. Pero yo creo fírmemente en esto. Creo que hemos vivido y experimentado tanto alguna vez al lado de alguien, que cuando se vuelven a encontrar, automáticamente vuelven a tener esa conexión. Es como darle un _Skip Intro_ al momento de conocer a alguien porque esa conexión ya existía previamente y solo vuelves a conectar. Todo fluye, todo tiene sentido, todo es fácil.
+
+También creo firmemente que este tipo de conexiones pueden ser o no románticas. Es decir, que puedes volver a conectar con un amigo de otra vida, de otra era y volver a conectar como antes.
+
+En mi caso, mi evento canónico fue _ella_ (AE). El evento que más peso ha tenido en mi vida y del que difícilmente me podré olvidar, no en esta vida, sino que en múltiples vidas más. Y aunque mi evento canónico ya sucedió y ya terminó, estoy contento porque la pude encontrar. Soy feliz porque pude volver a amarla, a tocarla y a respirar su aroma. Ahora agradezco a la vida por habernos permitido compartir, aunque haya sido por un periodo de tiempo muy corto. Y también agradezco que pueda compartir una vida en un mundo donde ambos existimos al mismo tiempo.
+
+Finalmente, sé que si en esta vida no logramos estar juntos, en las que siguen sí lo lograremos. Y por lo mientras, quiero que sea la mujer más feliz del mundo.

@@ -16,14 +16,14 @@ p {
 p a {
   /* text-decoration: underline */
   /* color: #008AFF; */
-  color: #1B2024;
+  color: #484c4f;
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
 }
 a {
-  color: #1B2024;
+  color: #484c4f;
   /* color: #008AFF; */
 }
 a:hover,
@@ -101,7 +101,8 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: #0856AC;
+  /* background: #0856AC; */
+  background: #1B2024;
   border-bottom: 1px solid #EAEAEA;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }

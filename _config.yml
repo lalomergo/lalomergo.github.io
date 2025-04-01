@@ -17,7 +17,7 @@ baseurl: ""
 title: Lalo Mercado
 
 # Short description of your site
-description: Mis ideas, reflexiones y algo de tech.
+description: Ideas, cuentos y algo de tech.
 
 # --- Navigation bar options --- #
 
@@ -26,6 +26,7 @@ navbar-links:
    #Archivo: "archivo"
   AI: "ai"
   Tech: "tech"
+  Cuentos: "cuentos"
   Vida: "vida"
   Reseñas: "resenas"  
   Acerca de : "acerca_de_mi"
